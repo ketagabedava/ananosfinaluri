@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #9d0505;
+  color: rgb(252, 249, 249);
+  padding: 30px;
+}
+
+.logo_name {
+  text-decoration: none;
+  color: rgb(255, 253, 253);
+  font-size: 1.5em;
+}
+
+nav {
+  display: flex;
+}
+
+.menu {
+  text-decoration: none;
+  color: rgb(255, 254, 254);
+  margin: 0 15px;
+  padding: 5px;
+}
+
+.style {
+  color: black;
+}
+footer {
+  background-color: #9d0505;
+  color: rgb(254, 253, 253);
+  padding: 40px;
+  text-align: center;
+
+}
+
+.contact_footer p {
+  margin: 5px 0;
+}
+
+.social_media_logo {
+  width: 30px;
+  margin: 0 5px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 30px auto;
+}
+
+form label {
+  margin-top: 10px;
+}
+
+form input,
+form textarea {
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+form button {
+  background-color: #9d0505;
+
+  color: rgb(14, 13, 13);
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+}
+
+img {
+  width: 400px;
+}
+
+/* aboutis gverdi */
+
+.conteiner {
+  margin: 0 80px;
+  padding: 20px;
+  background-color: rgb(219, 149, 149);
+}
+
+.img1 {
+  margin: 0 10px 0 190px;
+}
+
+.sec_abt {
+  margin-left: 430px;
+}
+
+.div_p {
+  text-align: center;
+}
+
+.first_conteiner {
+  width: 1000px;
+  margin: 10px 230px ;
+  display: flex;
+  flex-wrap: wrap;
+}
+.conteiner_text {
+text-align: justify;
+width: 400px;
+background-color: antiquewhite;
+}
+article{
+  width: 50%;
+}
+.title_1{
+  margin-left: 227px;
+}
+
+h1, h2, h3, h4{
+  color: rgb(33, 20, 22);
+}
+
+.contact_footer_1{
+  text-align: left;
+
+}
+.conteiner_div{
+  margin: 10px 60px 0 10px ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.social_media_logo_1{
+  width: 40px;
+}
+
+.mrg{
+  margin: 0 30px;
+}
+
+.contact_img{
+  width: 300px;
+}
+
+
